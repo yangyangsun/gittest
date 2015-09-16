@@ -13,5 +13,7 @@ int main()
         printf("woshisunyangyang\r\n");
         printf("DTS2\r\n");
         printf("DTS1\r\n");
+        printf("DTS4\r\n");
+        printf("DTS5\r\n");
 	return 0;
 }

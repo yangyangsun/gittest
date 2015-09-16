@@ -6,5 +6,6 @@ int main()
 	printf("nihao\r\n");
 	printf("shijie\r\n");
         printf("woshizhangsan\r\n");
+	printf("woshisunyangyang\r\n");
 	return 0;
 }

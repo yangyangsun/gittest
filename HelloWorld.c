@@ -5,5 +5,6 @@ int main()
 	printf("Wold is beautiful\r\n");
 	printf("nihao\r\n");
 	printf("shijie\r\n");
+	printf("woshisunyangyang\r\n");
 	return 0;
 }

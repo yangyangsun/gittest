@@ -12,5 +12,6 @@ int main()
 	printf("woshizhangguojuan\r\n");
         printf("woshisunyangyang\r\n");
         printf("DTS2\r\n");
+        printf("DTS1\r\n");
 	return 0;
 }
